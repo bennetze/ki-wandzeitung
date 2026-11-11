@@ -26,3 +26,7 @@ Keine externen Skripte, Font-Dienste, Analyse- oder Trackingdienste. `.local/` e
 Die Website ist eine Ergänzung des Plakats: identische Titel, Farben, originale Symbolflächen und das dreizeilige Lernbeispiel. Abstände ersetzen dekorative Trennlinien; nur der Zeitstrahl hat einen funktionalen Verbinder. Alle Kernaussagen sind sichtbar, zusätzliche Erklärungen und Beispiele stehen in nativen Aufklappern.
 
 Neu: Hintergründe zu allen 15 Stationen, Pixel/Label/Loss, Gewichte und Optimierer, Overfitting und Testdaten, zehn Alltagsbeispiele zu Chancen und Risiken sowie vier ausführlichere Zukunftsszenarien mit Grenzen. Eigene Unterrichtsbeispiele sind keine Studienergebnisse. Quellennachweise sind separat in QUELLEN.md dokumentiert; auf den Webseiten werden keine Quellenhinweise eingeblendet. Bestehende Seitenadressen bleiben erhalten.
+
+## Faktencheck vom 11.11.2026
+
+Alle vier Seiten einschließlich Vertiefungen und alle fünf Plakate wurden quellenbasiert geprüft. Präzisiert wurden historische Einordnung, das schematische überwachte Lernbeispiel, Test/Generalisierung, Online-Datenübertragung, Ressourcenbedarf und bedingte Zukunftsaussagen. Die 15 historischen Stationen bleiben eine Auswahl bis 2022. Quellen und Einschränkungen stehen in QUELLEN.md. Das unveränderte Layout und die bestehenden vier Seitenadressen bleiben erhalten.
