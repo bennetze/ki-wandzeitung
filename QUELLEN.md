@@ -38,4 +38,4 @@ Alle Plakattexte bleiben erhalten. Zusätzliche Alltags- und Unterrichtsszenarie
 - 2020: [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2)
 - 2022: [ChatGPT](https://openai.com/index/chatgpt/)
 
-Weitere historische Quellen stehen direkt auf der Geschichtsseite. Originale Bootstrap Icons: MIT-Lizenz unter assets/icons/LICENSE. Schriftlizenzen unter assets/fonts/.
+Weitere historische Quellen sind in der Projekt-Recherche dokumentiert. Originale Bootstrap Icons: MIT-Lizenz unter assets/icons/LICENSE. Schriftlizenzen unter assets/fonts/.
