@@ -22,10 +22,11 @@ Bootstrap Icons v1.13.1 (Original-SVG-Geometrie, MIT; siehe `assets/icons/LICENS
 
 Keine externen Skripte, Font-Dienste, Analyse- oder Trackingdienste. `.local/` enthält nur lokale Arbeitsdaten und wird nicht veröffentlicht.
 
-## Gestaltung und Vertiefung, dritte Fassung
-Die Website ist eine Ergänzung des Plakats: identische Titel, Farben, originale Symbolflächen und das dreizeilige Lernbeispiel. Abstände ersetzen dekorative Trennlinien; nur der Zeitstrahl hat einen funktionalen Verbinder. Alle Kernaussagen sind sichtbar, zusätzliche Erklärungen und Beispiele stehen in nativen Aufklappern.
+## Gekürzte Plakatbegleitung, 11.11.2026
 
-Neu: Hintergründe zu allen 15 Stationen, Pixel/Label/Loss, Gewichte und Optimierer, Overfitting und Testdaten, zehn Alltagsbeispiele zu Chancen und Risiken sowie vier ausführlichere Zukunftsszenarien mit Grenzen. Eigene Unterrichtsbeispiele sind keine Studienergebnisse. Quellennachweise sind separat in QUELLEN.md dokumentiert; auf den Webseiten werden keine Quellenhinweise eingeblendet. Bestehende Seitenadressen bleiben erhalten.
+Die Website konzentriert sich wieder auf die Kernaussagen und Grafiken der Wandzeitung. Zusätzliche Einleitungen, Abschlusskästen und die drei Epochenüberschriften sind entfernt. Die 15 Stationen behalten je einen kurzen optionalen Hintergrundsatz. Lernen bietet drei kurze Aufklapper, Zukunft je einen knappen Forschungsbeleg mit Grenze. Chancen und Risiken besteht ausschließlich aus den fünf Gegenüberstellungen des Plakats. Navigation und vier Seitenadressen bleiben erhalten.
+
+Der lokale Generator `.local/build.py` reproduziert diese Fassung. Quellen und fachliche Einschränkungen bleiben separat in QUELLEN.md dokumentiert. Die sichtbare Oberfläche enthält weiterhin keine Quellenhinweise.
 
 ## Faktencheck vom 11.11.2026
 
