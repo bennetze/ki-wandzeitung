@@ -22,5 +22,7 @@ Bootstrap Icons v1.13.1 (Original-SVG-Geometrie, MIT; siehe `assets/icons/LICENS
 
 Keine externen Skripte, Font-Dienste, Analyse- oder Trackingdienste. `.local/` enthält nur lokale Arbeitsdaten und wird nicht veröffentlicht.
 
-## Gestaltung, zweite Fassung
-Die Überarbeitung vom 11.11.2026 verwendet eine durchgehende Chronik mit Sprungnavigation, offene Lernschritte mit großen Ziffern, paarweise Vergleichsspalten und vier Zukunftsdossiers. Aufklapper sind unmittelbar in die Überschriften integriert. Dark Mode, Inter/Instrument Serif, Bootstrap-Originale und vollständige Plakattexte bleiben erhalten. Die festen Seitenadressen ändern sich nicht.
+## Gestaltung und Vertiefung, dritte Fassung
+Die Website ist eine Ergänzung des Plakats: identische Titel, Farben, originale Symbolflächen und das dreizeilige Lernbeispiel. Abstände ersetzen dekorative Trennlinien; nur der Zeitstrahl hat einen funktionalen Verbinder. Alle Kernaussagen sind sichtbar, zusätzliche Erklärungen und Beispiele stehen in nativen Aufklappern.
+
+Neu: Hintergründe zu allen 15 Stationen, Pixel/Label/Loss, Gewichte und Optimierer, Overfitting und Testdaten, zehn Alltagsbeispiele zu Chancen und Risiken sowie vier ausführlichere Zukunftsszenarien mit Grenzen. Eigene Unterrichtsbeispiele sind keine Studienergebnisse. Direkte Quellen an den Vertiefungen; vollständiges Verzeichnis in QUELLEN.md. Bestehende Seitenadressen bleiben erhalten.
