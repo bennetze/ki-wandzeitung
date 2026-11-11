@@ -24,7 +24,7 @@ Keine externen Skripte, Font-Dienste, Analyse- oder Trackingdienste. `.local/` e
 
 ## Gekürzte Plakatbegleitung, 11.11.2026
 
-Die Website konzentriert sich wieder auf die Kernaussagen und Grafiken der Wandzeitung. Zusätzliche Einleitungen, Abschlusskästen und die drei Epochenüberschriften sind entfernt. Die 15 Stationen behalten je einen kurzen optionalen Hintergrundsatz. Lernen bietet drei kurze Aufklapper, Zukunft je einen knappen Forschungsbeleg mit Grenze. Chancen und Risiken besteht ausschließlich aus den fünf Gegenüberstellungen des Plakats. Navigation und vier Seitenadressen bleiben erhalten.
+Die Website konzentriert sich wieder auf die Kernaussagen und Grafiken der Wandzeitung. Zusätzliche Einleitungen, Abschlusskästen und die drei Epochenüberschriften sind entfernt. Die 15 Stationen behalten je einen kurzen optionalen Hintergrundsatz. Lernen bietet zwei kurze Aufklapper; vielfältige Handschriften werden direkt im dritten Lernschritt erwähnt. Zukunft zeigt ausschließlich die vier Plakatthemen mit heutigen Ansätzen und bedingten Möglichkeiten unter den knappen Labels „Heute“ und „Möglich“. Chancen und Risiken besteht ausschließlich aus den fünf Gegenüberstellungen des Plakats. Mobile Abstände innerhalb der Lern-, Vergleichs- und Zukunftsgruppen sind enger; zwischen Themen bleibt mehr Luft. Navigation und vier Seitenadressen bleiben erhalten.
 
 Der lokale Generator `.local/build.py` reproduziert diese Fassung. Quellen und fachliche Einschränkungen bleiben separat in QUELLEN.md dokumentiert. Die sichtbare Oberfläche enthält weiterhin keine Quellenhinweise.
 
