@@ -21,3 +21,6 @@ Inhalte, Palette und Diagramme aus der vom Auftraggeber am 11.11.2026 ausgewähl
 Bootstrap Icons v1.13.1 (Original-SVG-Geometrie, MIT; siehe `assets/icons/LICENSE`). Inter und Instrument Serif: SIL Open Font License, siehe `assets/fonts/`. Inhalte und Gestaltung erhalten keine pauschale Open-Source-Lizenz.
 
 Keine externen Skripte, Font-Dienste, Analyse- oder Trackingdienste. `.local/` enthält nur lokale Arbeitsdaten und wird nicht veröffentlicht.
+
+## Gestaltung, zweite Fassung
+Die Überarbeitung vom 11.11.2026 verwendet eine durchgehende Chronik mit Sprungnavigation, offene Lernschritte mit großen Ziffern, paarweise Vergleichsspalten und vier Zukunftsdossiers. Aufklapper sind unmittelbar in die Überschriften integriert. Dark Mode, Inter/Instrument Serif, Bootstrap-Originale und vollständige Plakattexte bleiben erhalten. Die festen Seitenadressen ändern sich nicht.
